@@ -1,0 +1,12 @@
+name: Venamous_serpent_analysis
+title: Venamous_serpent_analysis
+username:
+account: shiyasdashaboards
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2034672
+bundleId: 2953611
+url: https://shiyasdashaboards.shinyapps.io/Venamous_serpent_analysis/
+when: 1585744421.74388
+asMultiple: FALSE
+asStatic: FALSE
